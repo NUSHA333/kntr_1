@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#timer {
+    font-size: 35px;
+    margin: 15px 0;
+}
+
+#colorBlock {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    margin: 15px 0;
+    cursor: pointer;
+}
+
+.active {
+    background-color: orange;
+}
+
+#userCard {
+    margin-top: 15px;
+    padding: 15px;
+}
+
+#userCard img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
